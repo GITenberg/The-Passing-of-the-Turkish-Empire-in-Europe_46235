@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25535'
     url: http://www.gutenberg.org/2009/agents/25535
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46235#The-Passing-of-the-Turkish-Empire-in-Europe
 gutenberg_issued: '2014-07-09'
 gutenberg_type: Text
 identifiers:
